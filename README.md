@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Learning is a journey with no finish line, always evolving and expanding<br>🎯 Make the internet safer by building secure web applications and promoting privacy-focused tools.<br>🎲 I spend more time debugging code in my head than actually writing it in the editor!</p>
+<p align="left">📚 Learning is a journey with no finish line, always evolving and expanding<br>🎯 Make the internet safer by building secure web applications and promoting privacy-focused tools<br>🎲 I spend more time debugging code in my head than actually writing it in the editor!</p>
 
 ###
 
